@@ -5,7 +5,7 @@
 ## [![Universidad Externado de Colombia](https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/logo-uec.svg)](https://www.uexternado.edu.co/)  
  
 ***Docente***  
-*José Jorge Sierra Molina*  
+*JJSM*  
 *josej.sierra@uexternado.edu.co*
 
 ### OBJETIVOS DEL CURSO
