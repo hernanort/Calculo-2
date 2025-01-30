@@ -40,7 +40,7 @@
   * Optimización  
         * [Parte 1](Optimizaciónvv.html)  
         * [Parte 2](Optimizaciónvv_est.html)
-  ***ESTADISTICA DESCRIPTIVA  
+  ***ESTADISTICA DESCRIPTIVA***  
   
 
 
