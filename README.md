@@ -2,8 +2,8 @@
 #### [Contaduría](https://www.uexternado.edu.co/contaduria-publica/)    
 
 ***Docente***  
-*JJSM*  
-*josej.sierra@uexternado.edu.co*
+*Fabio Ortiz *  
+*fabio.ortiz@uexternado.edu.co*
 
 ### OBJETIVOS DEL CURSO
 *	Ampliar los conceptos vistos en el curso MCG I a funciones de varias variables y su aplicación a procesos de optimización.
